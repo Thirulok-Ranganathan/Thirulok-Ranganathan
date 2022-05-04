@@ -1,6 +1,6 @@
 ## 👦 THIRULOK RANGANATHAN 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshadranganathan)](https://www.linkedin.com/in/thirulok-r-17bb291a5)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshadranganathan)](https://www.linkedin.com/in/thirulok-r-17bb291a5) ## Connect with me in Linkedin
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rharshad93@gmail.com)](mailto:rthirulok12@gmail.com)
 
 ### Hi there 👋
